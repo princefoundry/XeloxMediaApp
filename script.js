@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', () => {
       url: 'video-editing-reels-shorts.html',
       title: 'Video Editing (Reels/Shorts)',
       description: 'Professional editing for reels, shorts and social content.',
-      price: 500,
+      price: 1500,
       billing: 'per video',
       icon: serviceIcons.creative,
     },
